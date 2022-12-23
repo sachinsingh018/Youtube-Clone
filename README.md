@@ -1,41 +1,10 @@
 # Youtube-Clone
 
-This is a youtube-clone
+This is a youtube-clone created using ReactJS.
+This project tends to mimic the basic functionalities of the famous video streaming website youtube. </br>
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).</br>
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-### installing
-
-Explain how to run the automated tests for this system
-
-Runing in directory server and client
-
-```
-npm init
-npm install
-```
-
-## Running this app
-
-```
-npm start
-```
-
-## Screenshot
-
-<div align="center">
-    <img src="/screenshot/pic1.jpg" width="400px"</img> 
-    <img src="/screenshot/pict2.jpg" width="400px"</img> 
-</div>
-
-## Built With
-
-* [Nodes](https://nodejs.org/en/)
-* [ReactJs](https://reactjs.org/)
-* [React Router Dom](https://reactrouter.com/)
-* [material-ui](https://material-ui.com/)
-
-## Authors
-
-* **Ahmad Zaky** 
-reference from the video [Clever Programmer](https://youtu.be/NT299zIk2JY)
+##Screenshot
+Below is a screenshot of the application that shows the home page of the same.
+![Screenshot (810)](https://user-images.githubusercontent.com/38975177/209304214-15d7ecfc-6cd4-4f99-a737-a92d49eacd9b.png)
